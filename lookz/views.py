@@ -1,3 +1,4 @@
+# checking commit on github
 from django.shortcuts import render
 
 # Create your views here.
